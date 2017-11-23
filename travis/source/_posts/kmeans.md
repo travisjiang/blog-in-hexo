@@ -1,7 +1,11 @@
 ---
 title: 机器学习算法——kmeans
-date: 2017-11-19 04:22:05
-tags: nlp, machine-learning, blog
+date: 2017-10-19 04:22:05
+tags:
+- nlp
+- machine-learning
+categories:
+- study
 ---
 
 ## 基本概念
